@@ -1,0 +1,14 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    margin: auto;
+    .btn-login{
+        padding: 5px 0px;
+        margin-top: 10px;
+    }
+    .btn-login:hover{
+        color: rgb(23, 132, 215);
+        border-color: rgb(23, 132, 215);
+    }
+}
